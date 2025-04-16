@@ -1,7 +1,7 @@
 
 ---
 
-My name is Ryuhei Miyazato
+My name is Ryuhei Miyazato  
 2nd year master’s student at the University of Electro-Communications, a mamber of Harada Laboratory
 
 - Email: miyazato(at)uec.ac.jp
