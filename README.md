@@ -1,7 +1,7 @@
 
 ---
 
-My name is Ryuhei Miyazato  
+My name is Ryuhei Miyazato.  
 I am 2nd year master’s student at the University of Electro-Communicationsa and a mamber of Harada Laboratory.
 
 - Email: miyazato(at)uec.ac.jp
@@ -11,15 +11,48 @@ I am 2nd year master’s student at the University of Electro-Communicationsa an
 
 ---
 
-##  Publications
+## Profile
 
-- [タイトル1](リンク)  
+- **Affiliation**:  The University of Electro-Communications
+- **Position**: 2nd year master’s student
+- **Field of Research**:  Natural Language Processing, Machine Learning, Recommender Systems
+- **Research Interests**: I am interested in exploring the internal representations within LLMs, with a particular focus on understanding the dynamics of how beliefs and perspectives evolve and integrate over time in narrative and conversational contexts.
 
 ---
 
-## 🛠 Projects
+## Work Experience
 
-- **プロジェクト名1**  
+| Period         | Organization         | Role/Position       | Description                              |
+|:-------------- |:------------------- |:-------------------|:-----------------------------------------|
+| 2025.04–Present| Ichikara Inc., Tokyo, Japan| outsourcing | Synthesising of the DPO dataset.  |
+| 2024.08–2024.11| DOCOMO Innovations, Inc., California, United States |  Research intern in the AI & Data Analytics Group | Personalized Book Summarization and Implementation of RAG for multiple domains documents within the company. |
+
 ---
 
-© 2025. Powered by [GitHub Pages](https://pages.github.com/)
+## Education
+
+| Period         | Institution         | Degree             | Major/Thesis                             |
+|:-------------- |:-------------------|:-------------------|:-----------------------------------------|
+| 2024.04–2026.03(expected)| The University of Electro-Communications   |MSc | Design Thinking and Data Science                    |
+| 2020.04–2024.03| The University of Electro-Communications   | BSc  | Design Thinking and Data Science |
+| 2017.07-2020.03 | Simizu Higashi High School | High school | Soccer Recommendation
+
+---
+
+## Publications
+
+### Peer-reviewed Papers
+1. **Book Recommendation System in University Libraries**, R.Miyazato, T.Nishino, K.Harada, IPSJ TOM, 2025. https://ipsj.ixsq.nii.ac.jp/records/2000549
+
+### Conference Proceedings
+-  **Aspect-Based Novel Summarization with Relational Extraction Using Large Language**, R. Miyazato, H.Wu, K.Harada, K.Okamoto, A.Shibata,  JSAI2025, 2025.5
+- **Book Recommendation System for University Libraries**, R. Miyazato, T. Nishino, K. Harada,  SIG Mathematical Modeling and Problem Solving: MPS, 2024.6
+
+### PREPRINT
+- **BookAsSumQA: Evaluation of Aspect-Based Book Summarization via Question Answering**, 2025
+- **Ensembling Multiple Hallucination Detectors Trained on VLLM Internal Representations**, 2025
+
+### Awards
+- 5th place on the [Meta CRAG-MM Challenge at KDD Cup 2025](https://www.aicrowd.com/challenges/meta-crag-mm-challenge-2025)
+
+---
