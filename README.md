@@ -17,7 +17,7 @@
       </ul>
     </td>
     <td style="text-align:right; vertical-align:top; padding-left:24px;">
-      <img src="./images/profile.jpeg" alt="Profile Photo" width="1250
+      <img src="./images/profile.jpeg" alt="Profile Photo" width="500
       " style="border-radius:50%;">
     </td>
   </tr>
