@@ -53,6 +53,6 @@ I am 2nd year master’s student at the University of Electro-Communicationsa an
 - **Ensembling Multiple Hallucination Detectors Trained on VLLM Internal Representations**, 2025
 
 ### Awards
-- 5th place on the [Meta CRAG-MM Challenge at KDD Cup 2025](https://www.aicrowd.com/challenges/meta-crag-mm-challenge-2025)
+- 5th place at the [Meta CRAG-MM Challenge, KDD Cup 2025](https://www.aicrowd.com/challenges/meta-crag-mm-challenge-2025)
 
 ---
