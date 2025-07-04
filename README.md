@@ -1,13 +1,28 @@
 
 ---
 
-My name is Ryuhei Miyazato.  
-I am 2nd year master’s student at the University of Electro-Communicationsa and a mamber of Harada Laboratory.
+<table>
+  <tr>
+    <td style="vertical-align:top;">
+      <h1>Ryuhei Miyazato</h1>
+      <p>
+        I am a 2nd year master’s student at the University of Electro-Communications<br>
+        and a member of Harada Laboratory.
+      </p>
+      <ul>
+        <li>Email: miyazato(at)uec.ac.jp</li>
+        <li>GitHub: <a href="https://github.com/ryuhei-miyazato">@ryuhei-miyazato</a></li>
+        <li>X: <a href="https://x.com/zakct_irynb">@zackt_irynb</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/ryuhei-miyazato-538b17285/">@ryuhei-miyazato</a></li>
+      </ul>
+    </td>
+    <td style="text-align:right; vertical-align:top; padding-left:24px;">
+      <img src="./images/profile.jpeg" alt="Profile Photo" width="1250
+      " style="border-radius:50%;">
+    </td>
+  </tr>
+</table>
 
-- Email: miyazato(at)uec.ac.jp
-- Github: [@ryuhei-miyazato](https://github.com/ryuhei-miyazato)
-- X: [@zackt_irynb](https://x.com/zakct_irynb)
-- LinkedIn: [@ryuhei-miyazato](https://www.linkedin.com/in/ryuhei-miyazato-538b17285/)
 
 ---
 
