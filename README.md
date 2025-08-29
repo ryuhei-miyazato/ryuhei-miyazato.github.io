@@ -55,7 +55,7 @@
 ---
 
 ## Publications
-- **BookAsSumQA: Evaluation of Aspect-Based Book Summarization via Question Answering**, **Ryuhei Miyazato**, Ting-Ruen Wei, Xuyang Wu, Hsin-Tai Wu, Kei Harada, preprint
+- **BookAsSumQA: Evaluation of Aspect-Based Book Summarization via Question Answering**, **Ryuhei Miyazato**, Ting-Ruen Wei, Xuyang Wu, Hsin-Tai Wu, Kei Harada, preprint, 2025
 - **Ensembling Multiple Hallucination Detectors Trained on VLLM Internal Representations**, Yuto Nakamizo, **Ryuhei Miyazato(co-first-author)**, Hikaru Tanabe, Ryuta Yamakura, Kiori Hatanaka, KDDCup Workshop at the 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2025), Toronto, Canada, 2025
 - **Book Recommendation System in University Libraries Considering Course Subjects and Users' Learning Situation**, **Ryuhei Miyazato**, Tetsuro Nishino, Kei Harada, IPSJ TOM, 2025. https://ipsj.ixsq.nii.ac.jp/records/2000549
 
