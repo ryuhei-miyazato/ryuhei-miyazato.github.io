@@ -6,8 +6,7 @@
     <td style="vertical-align:top;">
       <h1>Ryuhei Miyazato</h1>
       <p>
-        I am a 2nd year master’s student at the University of Electro-Communications<br>
-        and a member of Harada Laboratory.
+        I am a 2nd year master’s student at the University of Electro-Communications, a member of Harada Laboratory.
       </p>
       <ul>
         <li>Email: miyazato@uec.ac.jp</li>
