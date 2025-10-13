@@ -1,13 +1,17 @@
 
 ---
-
 <table>
   <tr>
     <td style="vertical-align:top;">
-      <h1>Ryuhei Miyazato</h1>
+      <h1>Ryuhei Miyazato (宮里 龍平)</h1>
       <p>
-        I am a 2nd year master’s student at the University of Electro-Communications, a member of Harada Laboratory. My research focuses on <b>large language models, vision–language models, and narrative understanding</b>
+        I am a 2nd year Master’s student at the University of Electro-Communications and a member of the Harada Laboratory.  
+        My research focuses on <b>large language models and narrative understanding</b>, with particular interests in:
       </p>
+      <ul>
+        <li><b>Temporal Discourse Understanding in Language Models</b>: Investigating how models comprehend the temporal order of events in narratives, especially when the order of description differs from the actual timeline.</li>
+        <li><b>Hallucination Detection in Vision–Language Models through Internal Representations</b>: Detecting hallucinations with probing and ensemble learning on internal representations.</li>
+      </ul>
       <ul>
         <li>Email: miyazato@uec.ac.jp</li>
         <li>GitHub: <a href="https://github.com/ryuhei-miyazato">@ryuhei-miyazato</a></li>
@@ -16,21 +20,12 @@
       </ul>
     </td>
     <td style="text-align:right; vertical-align:top; padding-left:24px;">
-      <img src="./images/profile.jpeg" alt="Profile Photo" width="500
-      " style="border-radius:50%;">
+      <img src="./images/profile.jpeg" alt="Profile Photo" width="500" style="border-radius:50%;">
     </td>
   </tr>
 </table>
 
 ---
-
-## Research Interests
-
-- **Temporal Discourse Understanding in Language Models**  
-  Investigating how language models comprehend the temporal order of events in narratives. In particular, examining whether models can understand texts where the order of description differs from the actual timeline, and whether they internally represent event sequences.  
-
-- **Hallucination Detection in Vision–Language Models through Internal Representations**  
-  Detecting hallucinations in VLMs by leveraging probing techniques and ensemble learning on internal representations.
 
 ---
 
