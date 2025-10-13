@@ -6,7 +6,7 @@
     <td style="vertical-align:top;">
       <h1>Ryuhei Miyazato</h1>
       <p>
-        I am a 2nd year master’s student at the University of Electro-Communications, a member of Harada Laboratory.
+        I am a 2nd year master’s student at the University of Electro-Communications, a member of Harada Laboratory. My research focuses on <b>large language models, vision–language models, and narrative understanding</b>
       </p>
       <ul>
         <li>Email: miyazato@uec.ac.jp</li>
@@ -22,15 +22,22 @@
   </tr>
 </table>
 
+---
+
+## Research Interests
+
+- **Temporal Discourse Understanding in Language Models**  
+  Investigating how language models comprehend the temporal order of events in narratives. In particular, examining whether models can understand texts where the order of description differs from the actual timeline, and whether they internally represent event sequences.  
+
+- **Hallucination Detection in Vision–Language Models through Internal Representations**  
+  Detecting hallucinations in VLMs by leveraging probing techniques and ensemble learning on internal representations.
 
 ---
 
-## Profile
+## News
 
-- **Affiliation**:  The University of Electro-Communications
-- **Position**: 2nd year master’s student
-- **Field of Research**:  Natural Language Processing, Machine Learning, Recommender Systems
-- **Research Interests**: I am interested in exploring the internal representations within LLMs, with a particular focus on understanding the dynamics of how beliefs and perspectives evolve and integrate over time in narrative and conversational contexts.
+- 2025.09 – 🥈 Second place at Ichikara-Try 2025, awarded 200,000 JPY prize for innovative dataset synthesis.
+- 2025.08 – 🏅 5th place worldwide at the Meta CRAG-MM Challenge, KDD Cup 2025, Toronto, Canada.
 
 ---
 
@@ -59,12 +66,13 @@
 - **Book Recommendation System in University Libraries Considering Course Subjects and Users' Learning Situation**, **Ryuhei Miyazato**, Tetsuro Nishino, Kei Harada, Transactions on Mathematical Modeling and its Applications (TOM), 2025. https://ipsj.ixsq.nii.ac.jp/records/2000549
 
 
-### Conference Proceedings
+### Conference Proceedings (Domestic Conference)
 - **非直線的な物語における言語モデルの時間的推論能力の検証**, 宮里龍平, 丹羽彩奈, 乾健太郎, 原田慧, 第20回言語処理若手シンポジウム(YANS2025), Sizuoka, Japan (2025.9)
 - **大規模言語モデルを用いた関係性抽出に基づく小説のアスペクトベース要約手法の提案**, 宮里龍平, Hsin-Tai Wu, 原田慧, 岡本一志, 柴田淳司, 軽部幸起, 2025年度 人工知能学会全国大会 (JSAI2025), Osaka, Japan (2025.5)
 - **⼤学図書館利⽤者の学習状況を考慮した授業関連の図書推薦⼿法の提案**, 宮里龍平, 西野哲朗, 原田慧, 第148回MPS・第78回BIO合同研究発表会, Okinawa, Japan (2024.6)
 
 ## Awards
 - 5th place at the [Meta CRAG-MM Challenge, KDD Cup 2025](https://www.aicrowd.com/challenges/meta-crag-mm-challenge-2025)
+- Second place at Ichikara-Try 2025, awarded 200,000 JPY prize
 
 ---
