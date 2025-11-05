@@ -1,5 +1,5 @@
 ---
-title: "Ryuhei Miyazato | 宮里龍平 | NLP Researcher"
+title: "Ryuhei Miyazato / 宮里龍平"
 description: "Official homepage of Ryuhei Miyazato (宮里龍平), NLP & Cognitive Science researcher at the University of Electro-Communications."
 lang: "en"
 ---
