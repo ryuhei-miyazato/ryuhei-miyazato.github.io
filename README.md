@@ -1,3 +1,8 @@
+---
+title: "Ryuhei Miyazato | 宮里龍平 | NLP Researcher"
+description: "Official homepage of Ryuhei Miyazato (宮里龍平), NLP & Cognitive Science researcher at the University of Electro-Communications."
+lang: "en"
+---
 
 ---
 <table>
@@ -15,8 +20,8 @@
       <ul>
         <li>Email: miyazato@uec.ac.jp</li>
         <li>GitHub: <a href="https://github.com/ryuhei-miyazato">@ryuhei-miyazato</a></li>
-        <li>X: <a href="https://x.com/zakct_irynb">@zackt_irynb</a></li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/ryuhei-miyazato-538b17285/">@ryuhei-miyazato</a></li>
+        <li>Instagram: <a href="https://www.instagram.com/zackt.irynb/">@zackt.irynb</a></li>
       </ul>
     </td>
     <td style="text-align:right; vertical-align:top; padding-left:24px;">
@@ -72,3 +77,24 @@ Student Research Workshop, 2025
 - Second place at Ichikara-Try 2025, awarded 200,000 JPY prize
 
 ---
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ryuhei Miyazato",
+  "alternateName": "宮里 龍平",
+  "url": "https://ryuhei-miyazato.github.io/",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "University of Electro-Communications (UEC), Tokyo"
+  },
+  "jobTitle": "Researcher (Master's student)",
+  "knowsAbout": ["Natural Language Processing", "Narrative Understanding", "Large Language Models", "Hallucination Detection"],
+  "sameAs": [
+    "https://github.com/ryuhei-miyazato",
+    "https://www.linkedin.com/in/ryuhei-miyazato-538b17285/"
+  ]
+}
+</script>
