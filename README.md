@@ -36,6 +36,7 @@ lang: "en"
 
 ## News
 
+- 2025.11 - Our paper "BookAsSumQA: Evaluation of Aspect-Based Book Summarization via Question Answering" was accepted to IJCNLP-AACL2025 Student Research Workshop
 - 2025.09 – 🥈 Second place at Ichikara-Try 2025, awarded 200,000 JPY prize for innovative dataset synthesis.
 - 2025.08 – 🏅 5th place worldwide at the Meta CRAG-MM Challenge, KDD Cup 2025, Toronto, Canada.
 
