@@ -20,7 +20,7 @@
       </ul>
     </td>
     <td style="text-align:right; vertical-align:top; padding-left:24px;">
-      <img src="./images/profile.jpeg" alt="Profile Photo" width="500" style="border-radius:50%;">
+      <img src="./images/profile.jpeg" alt="Profile Photo" width="500">
     </td>
   </tr>
 </table>
@@ -56,8 +56,9 @@
 ---
 
 ## Publications
-- **BookAsSumQA: Evaluation of Aspect-Based Book Summarization via Question Answering**, **Ryuhei Miyazato**, Ting-Ruen Wei, Xuyang Wu, Hsin-Tai Wu, Kei Harada, preprint, 2025
-- **Ensembling Multiple Hallucination Detectors Trained on VLLM Internal Representations**, Yuto Nakamizo, **Ryuhei Miyazato(co-first-author)**, Hikaru Tanabe, Ryuta Yamakura, Kiori Hatanaka, KDDCup Workshop at the 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2025), Toronto, Canada, 2025. http://arxiv.org/abs/2510.14330
+- **BookAsSumQA: Evaluation of Aspect-Based Book Summarization via Question Answering**, **Ryuhei Miyazato**, Ting-Ruen Wei, Xuyang Wu, Hsin-Tai Wu, Kei Harada, IJCNLP-AACL2025
+Student Research Workshop, 2025
+- **Ensembling Multiple Hallucination Detectors Trained on VLLM Internal Representations**, Yuto Nakamizo, **Ryuhei Miyazato(co-first-author)**, Hikaru Tanabe, Ryuta Yamakura, Kiori Hatanaka, KDDCup Workshop at the 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2025), 2025. http://arxiv.org/abs/2510.14330
 - **Book Recommendation System in University Libraries Considering Course Subjects and Users' Learning Situation**, **Ryuhei Miyazato**, Tetsuro Nishino, Kei Harada, Transactions on Mathematical Modeling and its Applications (TOM), 2025. https://ipsj.ixsq.nii.ac.jp/records/2000549
 
 
