@@ -62,10 +62,10 @@ lang: "en"
 ---
 
 ## Publications
-- **BookAsSumQA: Evaluation of Aspect-Based Book Summarization via Question Answering**, **Ryuhei Miyazato**, Ting-Ruen Wei, Xuyang Wu, Hsin-Tai Wu, Kei Harada, IJCNLP-AACL2025
-Student Research Workshop, 2025
-- **Ensembling Multiple Hallucination Detectors Trained on VLLM Internal Representations**, Yuto Nakamizo, **Ryuhei Miyazato(co-first-author)**, Hikaru Tanabe, Ryuta Yamakura, Kiori Hatanaka, KDDCup Workshop at the 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2025), 2025. http://arxiv.org/abs/2510.14330
-- **Book Recommendation System in University Libraries Considering Course Subjects and Users' Learning Situation**, **Ryuhei Miyazato**, Tetsuro Nishino, Kei Harada, Transactions on Mathematical Modeling and its Applications (TOM), 2025. https://ipsj.ixsq.nii.ac.jp/records/2000549
+- [**BookAsSumQA: Evaluation of Aspect-Based Book Summarization via Question Answering**](http://arxiv.org/abs/2511.06183), **Ryuhei Miyazato**, Ting-Ruen Wei, Xuyang Wu, Hsin-Tai Wu, Kei Harada, IJCNLP-AACL2025
+Student Research Workshop, 2025.
+- [**Ensembling Multiple Hallucination Detectors Trained on VLLM Internal Representations**](http://arxiv.org/abs/2510.14330), Yuto Nakamizo, **Ryuhei Miyazato(co-first-author)**, Hikaru Tanabe, Ryuta Yamakura, Kiori Hatanaka, KDDCup Workshop at the 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2025), 2025.
+- [**Book Recommendation System in University Libraries Considering Course Subjects and Users' Learning Situation**](https://ipsj.ixsq.nii.ac.jp/records/2000549), **Ryuhei Miyazato**, Tetsuro Nishino, Kei Harada, Transactions on Mathematical Modeling and its Applications (TOM), 2025. 
 
 
 ### Conference Proceedings (Domestic Conference)
