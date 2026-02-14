@@ -16,7 +16,7 @@ bio: >
   in vision-language models.
 
 
-profiles:
+links:
   - icon: envelope
     url: mailto:miyazato@uec.ac.jp
   - icon: github
