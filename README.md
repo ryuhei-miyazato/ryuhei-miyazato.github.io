@@ -1,75 +1,152 @@
+# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/hugo-theme-academic-cv)
 
----
-<table>
-  <tr>
-    <td style="vertical-align:top;">
-      <h1>Ryuhei Miyazato (宮里 龍平)</h1>
-      <p>
-        I am a 2nd year Master’s student at the University of Electro-Communications and a member of the Harada Laboratory.  
-        My research focuses on <b>large language models and narrative understanding</b>, with particular interests in:
-      </p>
-      <ul>
-        <li><b>Temporal Discourse Understanding in Language Models</b>: Investigating how models comprehend the temporal order of events in narratives, especially when the order of description differs from the actual timeline.</li>
-        <li><b>Hallucination Detection in Vision–Language Models through Internal Representations</b>: Detecting hallucinations with probing and ensemble learning on internal representations.</li>
-      </ul>
-      <ul>
-        <li>Email: miyazato@uec.ac.jp</li>
-        <li>GitHub: <a href="https://github.com/ryuhei-miyazato">@ryuhei-miyazato</a></li>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/ryuhei-miyazato-538b17285/">@ryuhei-miyazato</a></li>
-        <li>Instagram: <a href="https://www.instagram.com/zackt.irynb/">@zackt.irynb</a></li>
-      </ul>
-    </td>
-    <td style="text-align:right; vertical-align:top; padding-left:24px;">
-      <img src="./images/profile.jpeg" alt="Profile Photo" width="500">
-    </td>
-  </tr>
-</table>
+[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv/start/?utm_source=github&utm_medium=readme)
 
----
+<h1 align="center">The Portfolio That Works While You Sleep</h1>
+
+<p align="center">
+  <strong>Your unfair advantage in academia.</strong><br/>
+  Stop sending PDFs into the void. Build a living portfolio that boosts citations and lands offers.<br/>
+  Trusted by 250,000+ researchers at <strong>MIT, Stanford, and Google</strong>.
+</p>
+
+<p align="center">
+  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>🚀 Launch Free (60s)</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://hugoblox.com/templates/?open=academic-cv&loading=true&utm_source=github&utm_medium=readme">Live Demo</a>
+  &nbsp;•&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=hugoblox.hugoblox-studio"><b>Visual Editor</b></a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/z8wNYzb"><img src="https://img.shields.io/discord/722225264733716590?label=Join%20Discord&style=social" alt="Discord"></a>
+  <a href="https://github.com/HugoBlox/hugo-theme-academic-cv"><img src="https://img.shields.io/github/stars/HugoBlox/hugo-theme-academic-cv?label=Star%20Academic%20CV&style=social" alt="GitHub Stars"></a>
+</p>
 
 ---
 
-## News
+## Why This Template?
 
-- 2025.11 - Our paper "BookAsSumQA: Evaluation of Aspect-Based Book Summarization via Question Answering" was accepted to IJCNLP-AACL2025 Student Research Workshop
-- 2025.09 – 🥈 Second place at Ichikara-Try 2025, awarded 200,000 JPY prize for innovative dataset synthesis.
-- 2025.08 – 🏅 5th place worldwide at the Meta CRAG-MM Challenge, KDD Cup 2025, Toronto, Canada.
+Most CVs are static PDFs that get lost in the pile. This is an **intelligent portfolio** that works 24/7 to advance your career.
 
----
+- **🔮 Future-Proof:** Your content lives in simple **Markdown**. No database to break, no lock-in.
+- **🤖 AI-Ready:** Optimized for search engines and LLMs, so your work is found and cited.
+- **⚡ Zero Maintenance:** Auto-import citations from BibTeX and focus on research.
+- **✍️ Edit Visually:** Use **HugoBlox Studio** in VS Code — no coding needed. Full capabilities in Pro.
 
-## Work Experience
+<p align="center">
+  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme">
+    <img src="https://img.shields.io/badge/⚡️%20Get%20Your%20CV%20in%2060s-ff4655?style=for-the-badge" 
+    alt="Deploy this template" width="400">
+  </a>
+</p>
 
-| Period         | Organization         | Role/Position       | Description                              |
-|:-------------- |:------------------- |:-------------------|:-----------------------------------------|
-| 2025.04–Present| Ichikara Inc., Tokyo, Japan| outsourcing | Synthesising of the DPO dataset.  |
-| 2024.08–2024.11| DOCOMO Innovations, Inc., California, United States |  Research intern in the AI & Data Analytics Group | Personalized Book Summarization and Implementation of RAG for multiple domains documents within the company. |
+![HugoBlox Studio in Action](https://raw.githubusercontent.com/HugoBlox/kit/main/.github/media/studio/slide-1.webp)
+*HugoBlox Studio: Drag-and-drop page builder inside VS Code.*
 
----
-
-## Education
-
-| Period         | Institution         | Degree             | Major/Thesis                             |
-|:-------------- |:-------------------|:-------------------|:-----------------------------------------|
-| 2024.04–2026.03(expected)| The University of Electro-Communications   |MSc | Design Thinking and Data Science                    |
-| 2020.04–2024.03| The University of Electro-Communications   | BSc  | Design Thinking and Data Science |
-| 2017.07-2020.03 | Simizu Higashi High School | High school | Soccer Recommendation
+> "My citations went up 3x after switching to this template. The citation auto-sync feature is a lifesaver."
+> — **Dr. Zhang**, AI Research Scientist, Meta
 
 ---
 
-## Publications
-- **BookAsSumQA: Evaluation of Aspect-Based Book Summarization via Question Answering**, **Ryuhei Miyazato**, Ting-Ruen Wei, Xuyang Wu, Hsin-Tai Wu, Kei Harada, IJCNLP-AACL2025
-Student Research Workshop, 2025
-- **Ensembling Multiple Hallucination Detectors Trained on VLLM Internal Representations**, Yuto Nakamizo, **Ryuhei Miyazato(co-first-author)**, Hikaru Tanabe, Ryuta Yamakura, Kiori Hatanaka, KDDCup Workshop at the 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2025), 2025. http://arxiv.org/abs/2510.14330
-- **Book Recommendation System in University Libraries Considering Course Subjects and Users' Learning Situation**, **Ryuhei Miyazato**, Tetsuro Nishino, Kei Harada, Transactions on Mathematical Modeling and its Applications (TOM), 2025. https://ipsj.ixsq.nii.ac.jp/records/2000549
+## Who This Is For
 
-
-### Conference Proceedings (Domestic Conference)
-- **非直線的な物語における言語モデルの時間的推論能力の検証**, 宮里龍平, 丹羽彩奈, 乾健太郎, 原田慧, 第20回言語処理若手シンポジウム(YANS2025), Sizuoka, Japan (2025.9)
-- **大規模言語モデルを用いた関係性抽出に基づく小説のアスペクトベース要約手法の提案**, 宮里龍平, Hsin-Tai Wu, 原田慧, 岡本一志, 柴田淳司, 軽部幸起, 2025年度 人工知能学会全国大会 (JSAI2025), Osaka, Japan (2025.5)
-- **⼤学図書館利⽤者の学習状況を考慮した授業関連の図書推薦⼿法の提案**, 宮里龍平, 西野哲朗, 原田慧, 第148回MPS・第78回BIO合同研究発表会, Okinawa, Japan (2024.6)
-
-## Awards
-- 5th place at the [Meta CRAG-MM Challenge, KDD Cup 2025](https://www.aicrowd.com/challenges/meta-crag-mm-challenge-2025)
-- Second place at Ichikara-Try 2025, awarded 200,000 JPY prize
+- Students and grads applying to top labs and industry roles
+- Researchers who want a living, citable portfolio
+- Faculty/PIs showcasing publications, talks, and group news
 
 ---
+
+## Features
+
+| Feature | Benefit |
+| :--- | :--- |
+| **Markdown, Jupyter, RStudio** | Write in the tools you already use. |
+| **Auto-Update Citations** | Drop in a BibTeX file; formatted lists generated automatically. |
+| **Visual Editor** | Drag-and-drop blocks to build pages in minutes. |
+| **Global CDN** | Blazing fast load times (100/100 Lighthouse scores). |
+| **Privacy First** | You own your data. Host for free on GitHub Pages. |
+
+---
+
+## Notebook → Posts and Slides
+
+- Publish your actual `.ipynb` as beautiful long-form posts — code, outputs, and narrative kept intact.
+- Slides in Markdown with Reveal.js: math, syntax highlight, diagrams, speaker notes.
+- Coming soon: **Notebook → Slides (beta)**. Request early access in Discord.
+
+Learn more: docs on [Notebooks](https://docs.hugoblox.com/reference/markdown/#-notebooks) and [Slides](https://docs.hugoblox.com/guides/slides/).
+
+---
+
+## Why Go Pro (from $8/m)
+
+- Enhanced HugoBlox Studio visual editor — save 10–20 hours setting up and polishing
+- Premium CV & Resumé designs — make an unforgettable first impression
+- Pro blocks, remove attribution, and priority support
+
+---
+
+## Free vs Pro
+
+| Feature | Academic CV (Free) | Academic CV Pro & Resumé Pro |
+| --- | --- | --- |
+| Design | Professional & clean | Premium designs |
+| Layouts | Standard sections | Advanced timelines & layouts |
+| Courses/Lectures | Basic | Fully-Featured |
+| First Impression | Strong | Unforgettable |
+| Discord Support | Community | Priority |
+
+<p align="center">
+  <a href="https://hugoblox.com/pricing?utm_source=github&utm_medium=readme"><b>💎 Upgrade to Pro</b></a><br/>
+  <a href="https://hugoblox.com/templates/academic-cv-pro/start?utm_source=github&utm_medium=readme">✨ Deploy Academic CV Pro</a>
+  &nbsp;•&nbsp;
+  <a href="https://hugoblox.com/templates/resume-pro/start?utm_source=github&utm_medium=readme">📄 Deploy Resumé Pro</a>
+</p>
+
+---
+
+## Get Started
+
+### Option 1: No-Code (Fastest)
+Launch a fully hosted site in your browser. No software to install.
+
+👉 [**Launch in Browser (Free)**](https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme)
+
+### Option 2: Studio (Visual Editor)
+1) Install [HugoBlox Studio](https://marketplace.visualstudio.com/items?itemName=hugoblox.hugoblox-studio) for VS Code  
+2) Open this project and edit visually
+
+### Option 3: CLI (Developers)
+1) Install [Hugo](https://docs.hugoblox.com/start/cli/)
+2) Create your site with the CLI:
+
+```bash
+npx hugoblox create site --template academic-cv
+```
+
+---
+
+## FAQ
+
+- Do I need to know Hugo? No — you can edit visually or write Markdown.
+- Can I host for free? Yes — GitHub Pages/Netlify are supported.
+- Can I export/migrate later? Yes — your site is just files.
+- Can I cancel Pro anytime? Yes.
+
+---
+
+## Community & Support
+
+- 💬 [**Discord Community**](https://discord.gg/z8wNYzb)
+- 📚 [**Documentation**](https://docs.hugoblox.com/?utm_source=github&utm_medium=readme)
+- 🐦 [**Follow on X**](https://x.com/LoreLabs_)
+- ⭐ [**Star on GitHub**](https://github.com/HugoBlox/kit)
+
+---
+
+MIT © 2016-Present [George Cushen](https://georgecushen.com)
+
+<!--START_SECTION:news-->
+<!--Updated at 2026-02-08T01:28:59.412Z-->
+<!--END_SECTION:news-->
