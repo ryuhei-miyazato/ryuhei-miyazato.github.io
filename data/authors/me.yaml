@@ -6,7 +6,7 @@ name:
   given: Ryuhei
   family: Miyazato
   
-role: M.Eng. Student, The University of Electro-Communications
+role: Master's Student, The University of Electro-Communications
 
 bio: >
   I am a 2nd year Master’s student at the University of Electro-Communications
@@ -18,19 +18,12 @@ bio: >
 
 social:
   - icon: envelope
-    icon_pack: fas
     link: mailto:miyazato@uec.ac.jp
-
   - icon: github
-    icon_pack: fab
     link: https://github.com/ryuhei-miyazato
-
   - icon: linkedin
-    icon_pack: fab
     link: https://www.linkedin.com/in/ryuhei-miyazato-538b17285/
-
   - icon: instagram
-    icon_pack: fab
     link: https://www.instagram.com/zackt.irynb/
 
 
@@ -53,7 +46,7 @@ education:
 
 
 experience:
-  - position: Outsourcing Research Engineer
+  - position: Research Intern
     company_name: Ichikara Inc.
     location: Tokyo, Japan
     date_start: 2025-04
@@ -68,9 +61,9 @@ experience:
 
 
 awards:
-  - title: 5th Place Worldwide, Meta CRAG-MM Challenge (KDD Cup 2025)
+  - title: 5th Place at KDD Cup 2025 Meta CRAG-MM Challenge 
     date: 2025-08
-    description: Ranked 5th globally at the Meta CRAG-MM Challenge, KDD Cup 2025, Toronto, Canada.
+    description: Ranked 5th globally at KDD Cup 2025 Meta CRAG-MM Challenge
 
   - title: Second Place, Ichikara-Try 2025
     date: 2025-09
