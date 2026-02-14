@@ -16,15 +16,15 @@ bio: >
   in vision-language models.
 
 
-social:
+profiles:
   - icon: envelope
-    link: mailto:miyazato@uec.ac.jp
+    url: mailto:miyazato@uec.ac.jp
   - icon: github
-    link: https://github.com/ryuhei-miyazato
+    url: https://github.com/ryuhei-miyazato
   - icon: linkedin
-    link: https://www.linkedin.com/in/ryuhei-miyazato-538b17285/
+    url: https://www.linkedin.com/in/ryuhei-miyazato-538b17285/
   - icon: instagram
-    link: https://www.instagram.com/zackt.irynb/
+    url: https://www.instagram.com/zackt.irynb/
 
 
 interests:
