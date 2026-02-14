@@ -2,12 +2,11 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Ryuhei Miyazato (宮里 龍平)
+  display: Ryuhei Miyazato 
   given: Ryuhei
   family: Miyazato
   
-role: Master's Student in Data Science
-avatar: images/profile.jpeg
+role: M.Eng. Student, The University of Electro-Communications
 
 bio: >
   I am a 2nd year Master’s student at the University of Electro-Communications
@@ -18,19 +17,19 @@ bio: >
 
 
 social:
-  - icon: at-symbol
+  - icon: envelope
     icon_pack: fas
     link: mailto:miyazato@uec.ac.jp
 
-  - icon: brandsgithub
+  - icon: github
     icon_pack: fab
     link: https://github.com/ryuhei-miyazato
 
-  - icon: brands/linkedin
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ryuhei-miyazato-538b17285/
 
-  - icon: brands/instagram
+  - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/zackt.irynb/
 
