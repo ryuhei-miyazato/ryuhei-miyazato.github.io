@@ -17,13 +17,13 @@ bio: >
 
 
 links:
-  - icon: envelope
+  - icon: at-symbol
     url: mailto:miyazato@uec.ac.jp
-  - icon: github
+  - icon: brands/github
     url: https://github.com/ryuhei-miyazato
-  - icon: linkedin
+  - icon: brands/linkedin
     url: https://www.linkedin.com/in/ryuhei-miyazato-538b17285/
-  - icon: instagram
+  - icon: brands/instagram
     url: https://www.instagram.com/zackt.irynb/
 
 
