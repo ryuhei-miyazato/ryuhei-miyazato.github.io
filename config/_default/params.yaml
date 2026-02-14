@@ -12,19 +12,12 @@ hugoblox:
   # Site-level branding (for people/profiles, use the author system in content/authors/)
   # ────────────────────────────────────────────────────────────────────────────
   identity:
-    # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Ryuhei Miyazato"
-    # Legal entity for copyright notices (defaults to name if not set)
-    organization: ""
-    # Schema.org type for structured data
-    type: person                        # person | organization | local_business
-    # Short tagline displayed on your site
-    tagline: ""
-    # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
-    # Social accounts (used for meta tags like Twitter Cards)
-    social:
-      twitter: "LoreLabs_"              # Twitter/X handle for Twitter Cards (without @)
+    name: "Ryuhei Miyazato (宮里 龍平)"
+    organization: "The University of Electro-Communications"
+    type: person
+    tagline: "M.Eng. Student | NLP & Vision-Language Model Researcher"
+    description: "Ryuhei Miyazato (宮里 龍平) is an M.Eng. student at the University of Electro-Communications. His research focuses on hallucination detection in vision-language models and narrative understanding"
+
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
