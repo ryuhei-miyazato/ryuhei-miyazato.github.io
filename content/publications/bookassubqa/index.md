@@ -1,5 +1,5 @@
 ---
-title: 'ABookAsSumQA: An Evaluation Framework for Aspect-Based Book Summarization via Question Answering'
+title: 'BookAsSumQA: An Evaluation Framework for Aspect-Based Book Summarization via Question Answering'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
@@ -10,6 +10,12 @@ authors:
   - Xuyang Wu
   - Hsin-Tai Wu
   - Kei Harada
+  
+
+date: '2025-11-01T00:00:00Z'
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2025-11-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,7 +24,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: The 14th International Joint Conference on Natural Language Processing and The 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics
-publication_short: In *IJCNLP-AACL2025 SRW*
+publication_short: In *Proceedings of the IJCNLP-AACL2025 SRW*
 
 abstract: Aspect-based summarization aims to generate summaries that highlight specific aspects of a text, enabling more personalized and targeted summaries. However, its application to books remains unexplored due to the difficulty of constructing reference summaries for long text. To address this challenge, we propose BookAsSumQA, a QA-based evaluation framework for aspect-based book summarization. BookAsSumQA automatically generates aspect-specific QA pairs from a narrative knowledge graph to evaluate summary quality based on its question-answering performance. Our experiments using BookAsSumQA revealed that while LLM-based approaches showed higher accuracy on shorter texts, RAG-based methods become more effective as document length increases, making them more efficient and practical for aspect-based book summarization.
 
