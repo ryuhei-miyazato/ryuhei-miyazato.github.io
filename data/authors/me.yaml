@@ -6,7 +6,7 @@ name:
   given: Ryuhei
   family: Miyazato
   
-role: Master's Student, The University of Electro-Communications
+role: Researcher at AISI/UEC
 
 bio: >
   I am a 2nd year Master’s student at the University of Electro-Communications 
@@ -18,7 +18,7 @@ bio: >
 
 links:
   - icon: at-symbol
-    url: mailto:miyazato@uec.ac.jp
+    url: mailto:ryuhei810@icloud.com
   - icon: brands/github
     url: https://github.com/ryuhei-miyazato
   - icon: brands/linkedin
@@ -46,10 +46,17 @@ education:
 
 
 experience:
+  - position: Researcher
+    company_name: Japan AI Safety Institute
+    location: Tokyo, Japan
+    date_start: 2026-05
+    description: Detection and benchmarking of misinformation and disinformation
+
   - position: Research Intern
     company_name: Ichikara Inc.
     location: Tokyo, Japan
     date_start: 2025-04
+    date_end: 2026-04
     description: Synthesising DPO datasets for Japanese LLM training.
 
   - position: Research Intern (AI & Data Analytics Group)
@@ -61,6 +68,10 @@ experience:
 
 
 awards:
+  - title: Student Award 2026 at University of Electro-Communications 
+    date: 2026-03
+    description: Awarded to top ~5% of students based on outstanding achievements in research, extracurricular activities, and academic performance.
+
   - title: 5th Place at KDD Cup 2025 Meta CRAG-MM Challenge 
     date: 2025-08
     description: Ranked 5th globally at KDD Cup 2025 Meta CRAG-MM Challenge
