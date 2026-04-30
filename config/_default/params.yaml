@@ -15,8 +15,8 @@ hugoblox:
     name: "Ryuhei Miyazato (宮里 龍平)"
     organization: "The University of Electro-Communications"
     type: person
-    tagline: "M.Eng. Student | NLP & Vision-Language Model Researcher"
-    description: "Ryuhei Miyazato (宮里 龍平) is an M.Eng. student at the University of Electro-Communications. His research focuses on hallucination detection in vision-language models and narrative understanding"
+    tagline: "Researcher in NLP, Language Models, and AI Safety"
+    description: "Ryuhei Miyazato (宮里 龍平) is a researcher working on hallucination detection in vision-language models, narrative understanding, and trustworthy AI."
 
 
   # ────────────────────────────────────────────────────────────────────────────
@@ -25,12 +25,12 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
-    mode: system
+    mode: dark
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     pack: "default"
     # Optional: Override theme pack colors
     colors:
-      primary: ""                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+      primary: "#080a54"                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
       secondary: ""
       neutral: ""                       # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
@@ -74,7 +74,7 @@ hugoblox:
   # Site header and navigation bar
   # ────────────────────────────────────────────────────────────────────────────
   header:
-    enable: true
+    enable: false
     # Header style variant
     style: navbar                       # navbar | navbar-simple | minimal
     # Stick to top on scroll
@@ -83,9 +83,9 @@ hugoblox:
     align: center                       # left | center | right
     # Feature toggles
     search: true
-    theme_toggle: true
-    theme_picker: true
-    language_switcher: true
+    theme_toggle: false
+    theme_picker: false
+    language_switcher: false
     # Call-to-action button
     cta:
       enable: false
