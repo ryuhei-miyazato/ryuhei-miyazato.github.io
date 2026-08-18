@@ -1,0 +1,4 @@
+/* トップページ最初のブロックの上余白を除去 */
+.page-body > .hbb-section:first-child .resume-biography {
+  padding-top: 0;
+}
