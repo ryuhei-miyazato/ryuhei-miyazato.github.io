@@ -5,11 +5,9 @@ name:
   display: Ryuhei Miyazato 
   given: Ryuhei
   family: Miyazato
-  
-role: Researcher at AISI/UEC
 
 bio: >
-  I am currently a researcher at the Japan AI Safety Institute under the supervision of Prof. Satoshi Sekine, and a research associate at the University of Electro-Communications under Satoshi Hara. 
+  I am currently a researcher at the Japan AI Safety Institute and a research associate at the University of Electro-Communications under Satoshi Hara. 
   I received my Master’s degree from the same university under the supervision of Kei Harada.
   My research focuses on hallucination detection in vision language models 
   and narrative understanding, especially temporal discourse understanding.
@@ -23,14 +21,12 @@ links:
     url: https://github.com/ryuhei-miyazato
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ryuhei-miyazato-538b17285/
-  - icon: brands/instagram
-    url: https://www.instagram.com/zackt.irynb/
 
 
 interests:
-  - Hallucination Detection in Vision–Language Models
-  - Temporal Discourse Understanding in Language Models
-  - Narrative Understanding
+  - AI Safety and Trustworthy AI
+  - Hallucination Detection and Mitigation
+  - Misinformation and Disinformation Evaluation
 
 
 education:
@@ -51,6 +47,12 @@ experience:
     location: Tokyo, Japan
     date_start: 2026-05
     description: Detection and benchmarking of misinformation and disinformation
+
+  - position: Research Associate
+    company_name: The University of Electro-Communications
+    location: Tokyo, Japan
+    date_start: 2026-05
+    description: 
 
   - position: Research Intern
     company_name: Ichikara Inc.
