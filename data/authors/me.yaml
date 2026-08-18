@@ -9,7 +9,7 @@ name:
 bio: >
  I am currently a researcher at the Japan AI Safety Institute and the University of Electro-Communications under Satoshi Hara.
  I received my Master’s degree from the same university under the supervision of Kei Harada.<br>
- My research interests lie in evaluation and model assessment for trustworthy and AI Safety. 
+ My research interests lie in evaluation and alignment for trustworthy AI and AI Safety. 
  At Japan AISI, I evaluate Japanese LLMs, with a particular focus on robustness to misinformation and disinformation, as well as hallucination generation.
  At UEC, I work on robust hallucination detection using model-internal representations, with the goal of improving methods for detecting model misalignment.
 
@@ -29,7 +29,7 @@ interests:
 
 
 education:
-  - area: PhD
+  - area: Seeking PhD opportunities in AI safety.
     Institution: AI Safety / Misinformation
     date_start: Anytime
     date_end: Anytime
